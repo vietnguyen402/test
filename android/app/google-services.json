@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1011809705578",
+    "firebase_url": "https://nativefirebase-72ffe.firebaseio.com",
+    "project_id": "nativefirebase-72ffe",
+    "storage_bucket": "nativefirebase-72ffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011809705578:android:7cebb6dae13cfe9663f413",
+        "android_client_info": {
+          "package_name": "com.reactfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011809705578-qdkn3rfbrgkljhpqb74l4v8kuj98j8me.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactfirebase",
+            "certificate_hash": "6a12c3cf70f648d17149dde766d4fdcc60998720"
+          }
+        },
+        {
+          "client_id": "1011809705578-gf26gn4rd85avfkic0dep9hd7vfj8l8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdkpU3FVXpNqN7l-0sGNefkJ0HEgOq7QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011809705578-gf26gn4rd85avfkic0dep9hd7vfj8l8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
